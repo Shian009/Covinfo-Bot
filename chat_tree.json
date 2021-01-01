@@ -1,0 +1,23 @@
+{
+  "child_msg" : ["'<b>Country</b>' for data of any Country.","'<b>State</b>' for Indian States Data.","'<b>Bye</b>' to terminate chat."],
+  "children" : [
+    {
+      "child_msg" : ["Enter the name of the Country.","Enter '<b>Bye</b>' to terminate chat"],
+      "children" : [
+        {
+          "message" : "getCountry()",
+          "type" : "function"
+        }
+      ]
+    },
+    {
+      "child_msg" : ["Enter State or UT name","Enter '<b>Bye</b>' to terminate chat"],
+      "children" : [
+        {
+          "message" : "getState()",
+          "type" : "function"
+        }
+      ]
+    }
+  ]
+}
