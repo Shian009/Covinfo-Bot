@@ -3,6 +3,7 @@
                 <b>Hey &#128075; there friends !<br>
                     This is a simple chatbot<br>
                     You can keep track &#128221; of covid cases &#128567; of any country<br>
-                    Send a simple hello message to begin</b>
+                    Send a simple hello message to begin<br>
   Link: https://covinfobot.netlify.app/
+                  </b>
             </span>
