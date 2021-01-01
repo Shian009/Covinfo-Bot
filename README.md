@@ -4,4 +4,5 @@
                     This is a simple chatbot<br>
                     You can keep track &#128221; of covid cases &#128567; of any country<br>
                     Send a simple hello message to begin</b>
+  Link: https://covinfobot.netlify.app/
             </span>
